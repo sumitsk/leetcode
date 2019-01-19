@@ -1,0 +1,1 @@
+This repository contains solution to programming exercises at Leetcode. The repository is organised as per the explore sectoin of Leetcode.  
