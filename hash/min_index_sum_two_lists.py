@@ -18,9 +18,4 @@ class Solution(object):
                 elif idx_sum==min_idx_sum:
                     ans.append(rest)
         return ans
-
-sol = Solution()
-list1 = ["Shogun", "Tapioca Express", "Burger King", "KFC"]
-list2 = ["Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"]
-ans = sol.findRestaurant(list1, list2)
-print(ans)
+        
